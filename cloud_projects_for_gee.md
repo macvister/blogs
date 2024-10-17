@@ -1,3 +1,5 @@
+---
+
 ### Setting Up a Google Cloud Project and Authenticating in Python for Google Earth Engine Access
 
 Starting November 13, 2024, Google Earth Engine (GEE) will require users to access the platform through a Google Cloud project. This change aims to enhance security, streamline access management, and integrate Earth Engine with the broader Google Cloud ecosystem. In this tutorial, we will guide you through setting up a Google Cloud project, enabling the Earth Engine API, and authenticating in Python to access the platform.
@@ -137,3 +139,7 @@ Setting up a Google Cloud project to access Earth Engine via Python is a crucial
 - [Earth Engine Python API GitHub Repository](https://github.com/google/earthengine-api)
 
 Feel free to leave comments or questions below, and happy coding!
+
+---
+
+Now you can easily copy and paste this content into Medium, preserving the formatting.
